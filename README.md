@@ -7,7 +7,7 @@ Develop a LLM to train and able to translate Anuhazi to English, and vice versa.
 
 This is an academic curiousity that could help to uncover the mysteries of how languages evolve over time, in our world, given some factors that are not present in our known history and scientific disciplines. 
 
-The Keylontic Science Theory and all its messages to Humanity including untold History of Human Origins and its evolution, is to be rediscovered through this linguistic/multidimension aspects.
+The Keylontic Science Theory and all its messages to Humanity including untold History of Human Origins and its evolution, is to be rediscovered through this linguistic/multidimensional aspects.
 
 **Benefits**
 
